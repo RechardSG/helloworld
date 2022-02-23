@@ -18,7 +18,60 @@ data driven decision making
 -using facts to guide business strategy
 
 
-Week2
+Week2, introdue what data analysis skills are about, and how to do analytical thinking
+
+data analysis skills:
+5 points, to think of scenario of work when using analysis skill
+curiosity - 
+understand concept - identify what's relevant and eliminate what's not
+technical mindset - break process into steps or pieces
+data design - database, how to organize and access
+data analysis - managing tool, people, process used.
+
+
+analytical thinking:
+visulization
+strategy - focus
+problem-oriented - focus on the problem and think of difference angles
+correlation - find link
+big picture thinking and detailed oriented way of thinking 
+
+core analytical skills:
+rootcause? 5 whys
+gap?
+what was not considered before?
+
+
+
+Week3, 
+
+data lifecycle: 6 stages
+Plan - what, how, who
+Capture - collect
+Manage - how, where, what tools to maintain
+Analyze 
+Archive - keep
+Destroy - remove
+
+data analysis process in detail:
+ask: 1. define problem, 2.understand stakeholder expectations
+prepare: collect and store data, define types of data and make sure unbiased
+process: clean, format, remove outliers, correct
+analyze: using tools to transform, spreadsheet and Sql
+share: visualization
+act: case study
+
+powerful tools:
+spreadsheet
+query language
+visualization
+
+
+
+
+
+
+
 
 
 
