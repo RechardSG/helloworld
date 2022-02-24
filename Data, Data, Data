@@ -43,7 +43,7 @@ what was not considered before?
 
 
 
-Week3, 
+Week3, data life cycle, data analysis tools
 
 data lifecycle: 6 stages
 Plan - what, how, who
@@ -65,6 +65,33 @@ powerful tools:
 spreadsheet
 query language
 visualization
+
+
+Week4, data analysis tools introduction
+Spreadsheet
+Sql: SELECT, FROM, WHERE
+  SELECT
+    column A,
+    column B
+  From
+    table where the data belongs
+  WHERE
+    condition A
+    AND condition B;
+    
+Sql syntax
+1. WHERE last_name like 'Ch%'
+2. Comment is to use '--', like '#' in Python
+3. Aliase: last_name AS ln -- aliase for last name
+4. <> is not equal sign
+
+Week5, fairness
+fairness - inclusive sample populations, social context, and self-reported data, oversampling under-represented group
+
+
+
+
+
 
 
 
